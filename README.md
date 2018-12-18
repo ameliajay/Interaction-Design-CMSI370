@@ -17,4 +17,8 @@ If you click the "New List" button, this new list appears and the screen looks l
 
 If you click on the "View Tasks" button on any of the lists, the user is taken to that specific list's screen. All the tasks in that list are listed there.
 
+![screen shot 2018-12-18 at 8 43 41 am](https://user-images.githubusercontent.com/31746937/50169182-e8c92f80-02a1-11e9-938a-b0532569dbc3.png)
+
+If you click the "New Task" button, this new task appears and the screen looks like this. (Note: as previously mentioned, the new task function only adds the task to the Logic Design list because of the nature of the hardcoded data.)
+
 
