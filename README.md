@@ -33,8 +33,11 @@ If you click on the "Details" button for one of the tasks, the user is taken to 
 The aim of this assignment was to look back at the web app we had created, and envision what could make it better, and what the ultimate goal of that type of web app might look like. In *front-end-vision.md* I included the new features I would add to my task manager that would increase the satisfiability of it, as well as other usability metrics. I also included annotated mockups to show how each new feature and different page of the web app would work.
 
 ## Direct Manipulation
-The aim of this assignment was to write our own code to create a component (in my case a slider) that you can use to directly manipulate something else on the page. My slider changed that background color. Depending on where the user has dragged the slider ball, the background will be one of five different colors. 
+The aim of this assignment was to write our own code to create a component (in my case a slider) that you can use to directly manipulate something else on the page. My slider changed that background color. Depending on where the user has dragged the slider ball, the background will be one of five different colors.
 
+Below are a couple of screenshots of what the slider page looks like depending on where the slider ball is.
+
+![screen shot 2018-12-18 at 9 32 32 am](https://user-images.githubusercontent.com/31746937/50171681-f08bd280-02a7-11e9-8bd5-dccda98a21a4.png)
 
 
 
