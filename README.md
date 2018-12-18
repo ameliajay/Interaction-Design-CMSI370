@@ -15,13 +15,17 @@ If you click the "New List" button, this new list appears and the screen looks l
 
 ![screen shot 2018-12-18 at 8 43 28 am](https://user-images.githubusercontent.com/31746937/50169057-a869b180-02a1-11e9-98d6-50a9d850708e.png)
 
-If you click on the "View Tasks" button on any of the lists, the user is taken to that specific list's screen. All the tasks in that list are listed there. If the box next to the name of a task is clicked, a blue check mark will appear there signifying that this list has been completed!
+If you click on the "View Tasks" button on any of the lists, the user is taken to that specific list's screen. All the tasks in that list are listed there. If the box next to the name of a task is clicked, the box will turn blue and a little check mark will appear there signifying that the task has been completed!
 
 ![screen shot 2018-12-18 at 8 43 41 am](https://user-images.githubusercontent.com/31746937/50169182-e8c92f80-02a1-11e9-938a-b0532569dbc3.png)
+
+![screen shot 2018-12-18 at 8 44 32 am](https://user-images.githubusercontent.com/31746937/50169641-d4396700-02a2-11e9-9902-236b1afb89ff.png)
 
 If you click the "New Task" button, this new task appears and the screen looks like this. (Note: as previously mentioned, the new task function only adds the task to the Logic Design list because of the nature of the hardcoded data.)
 
 ![screen shot 2018-12-18 at 8 43 50 am](https://user-images.githubusercontent.com/31746937/50169301-2ded6180-02a2-11e9-961d-7f22918e4a78.png)
 
-If you click on the "Details" button for one of the tasks, the user is taken to that specific task's screen. To go back to the list, the user can click the "Back to List" button. There is also a text box for notes about the task below the name of the task. 
+If you click on the "Details" button for one of the tasks, the user is taken to that specific task's screen. To go back to the list, the user can click the "Back to List" button. There is also a text box for notes about the task below the name of the task. This assignment required us to write functions that simulated three different calls to the API. The calls I chose were *list, get,* and *insert*. The *list* call listed out all the tasklists or all of the tasks that should be able to be viewed. The *get* call selected a specific tasklist or task that was to be viewed. The *insert* call created a new tasklist or task. I wanted to go further and add functions that simulated the *update* call which would allow data about tasks to be saved (like notes and whether or not a task was marked completed), but I have not gotten to it yet. For now, the user can write notes about the task in the text box, but those notes are not saved when the user goes back to that task.
+
+
 
