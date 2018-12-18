@@ -27,5 +27,6 @@ If you click the "New Task" button, this new task appears and the screen looks l
 
 If you click on the "Details" button for one of the tasks, the user is taken to that specific task's screen. To go back to the list, the user can click the "Back to List" button. There is also a text box for notes about the task below the name of the task. This assignment required us to write functions that simulated three different calls to the API. The calls I chose were *list, get,* and *insert*. The *list* call listed out all the tasklists or all of the tasks that should be able to be viewed. The *get* call selected a specific tasklist or task that was to be viewed. The *insert* call created a new tasklist or task. I wanted to go further and add functions that simulated the *update* call which would allow data about tasks to be saved (like notes and whether or not a task was marked completed), but I have not gotten to it yet. For now, the user can write notes about the task in the text box, but those notes are not saved when the user goes back to that task.
 
+![screen shot 2018-12-18 at 8 44 19 am](https://user-images.githubusercontent.com/31746937/50170011-c0423500-02a3-11e9-9b01-6ca17a08590d.png)
 
 
