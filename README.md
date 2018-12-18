@@ -39,7 +39,7 @@ Below are a couple of screenshots of what the slider page looks like depending o
 
 ![screen shot 2018-12-18 at 9 32 32 am](https://user-images.githubusercontent.com/31746937/50171681-f08bd280-02a7-11e9-8bd5-dccda98a21a4.png)
 
-
+![screen shot 2018-12-18 at 9 32 47 am](https://user-images.githubusercontent.com/31746937/50171729-174a0900-02a8-11e9-8d8c-c60af7871864.png)
 
 
 
