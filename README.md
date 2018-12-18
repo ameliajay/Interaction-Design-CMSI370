@@ -29,4 +29,5 @@ If you click on the "Details" button for one of the tasks, the user is taken to 
 
 ![screen shot 2018-12-18 at 8 44 19 am](https://user-images.githubusercontent.com/31746937/50170011-c0423500-02a3-11e9-9b01-6ca17a08590d.png)
 
-
+## Front End Design Vision
+The aim of this assignment was to look back at the web app we had created, and envision what could make it better, and what the ultimate goal of that type of web app might look like. In *front-end-vision.md* I included the new features I would add to my task manager that would increase the satisfiability of it, as well as other usability metrics. I also included annotated mockups to show how each new feature and different page of the web app would work.
